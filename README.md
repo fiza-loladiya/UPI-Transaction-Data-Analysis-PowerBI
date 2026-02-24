@@ -8,17 +8,6 @@ It enables stakeholders to track **monthly transaction volume**, explore **payme
 ### 1) Overview Page
 ![Overview Page](Overview%20Page.png)
 
-### 2) Monthly Trends
-![Monthly Trends](Monthly%20Trends.png)
-
-### 3) City-wise & Segment Analysis
-![City-wise & Segment Analysis](City-wise%20%26%20Segment%20Analysis.png)
-
-### 4) Payment Methods & Devices
-![Payment Methods & Devices](Payment%20Methods%20%26%20Devices.png)
-
-
-
 ## 📌 Project Objective
 The objective of this project is to analyze UPI transactions across different parameters, helping financial analysts and businesses gain insights into:
 - User behavior and transaction trends
@@ -53,6 +42,15 @@ The objective of this project is to analyze UPI transactions across different pa
 - Most transactions occur via **Mobile devices**, followed by Tablets  
 - The most active transaction age group is **above 35**  
 - Cities like **Mumbai, Delhi, and Bangalore** show the highest transaction frequency  
+
+### 2) Monthly Trends
+![Monthly Trends](Monthly%20Trends.png)
+
+### 3) City-wise & Segment Analysis
+![City-wise & Segment Analysis](City-wise%20%26%20Segment%20Analysis.png)
+
+### 4) Payment Methods & Devices
+![Payment Methods & Devices](Payment%20Methods%20%26%20Devices.png)
 
 
 
