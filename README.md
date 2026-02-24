@@ -3,6 +3,20 @@
 This project is an interactive **Power BI dashboard** built to analyze **UPI transactions** across multiple parameters and help understand **user behavior, transaction trends, and payment patterns**.  
 It enables stakeholders to track **monthly transaction volume**, explore **payment methods**, and compare **city-wise transaction distribution** efficiently.
 
+## 📸 Dashboard Preview
+
+### 1) Overview Page
+![Overview Page](Overview%20Page.png)
+
+### 2) Monthly Trends
+![Monthly Trends](Monthly%20Trends.png)
+
+### 3) City-wise & Segment Analysis
+![City-wise & Segment Analysis](City-wise%20%26%20Segment%20Analysis.png)
+
+### 4) Payment Methods & Devices
+![Payment Methods & Devices](Payment%20Methods%20%26%20Devices.png)
+
 
 
 ## 📌 Project Objective
